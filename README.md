@@ -1,4 +1,4 @@
-# Hi there! <img src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="35" />
+# Hi there! 
 <p align="center">
 <a href="https://twitter.com/vinikatyal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp;
 <a href="https://linkedin.com/in/vinikatyal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vinikatyal" height="30" width="30" /></a>&nbsp;
