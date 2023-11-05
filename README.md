@@ -15,6 +15,7 @@
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
+      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJs" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
 </p>
