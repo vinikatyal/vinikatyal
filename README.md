@@ -10,7 +10,6 @@
 - 🏦 I'm the Founding Engineer at Fiddlecube YC-W23
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily: **.js**, **.ts**, **.py**
-- 📖 I am currently reading **Outliers** by Martin Kleppmann
 - 💬 Talk to me about Startups, React, Javascript, and Trekking
 - 🧑‍💻 Tech I work on :
 
